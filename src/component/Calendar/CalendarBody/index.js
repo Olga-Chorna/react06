@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { format } from "date-fns";
-// import AllDays from "./AllDays";
 import "./style.css"
 
 class CalendarBody extends Component {
